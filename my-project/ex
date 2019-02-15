@@ -1,0 +1,6 @@
+# symfony
+symfony example
+
+#run server
+-->
+php bin/console server:run
